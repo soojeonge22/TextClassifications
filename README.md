@@ -1,4 +1,4 @@
-# TextClassifications
+# Text Classifications
 
 (1) News classification
 
