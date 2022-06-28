@@ -1,7 +1,7 @@
 # Text Classifications
 
-(1) News classification
+(1) News classification - LSTM
 
-(2) Movie Review
+(2) Movie Review - GRU
 
-(3) Spam detection
+(3) Spam detection - RNN
